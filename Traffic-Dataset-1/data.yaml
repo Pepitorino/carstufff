@@ -1,0 +1,15 @@
+names:
+- bus
+- car
+- motorcycle
+- truck
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: traffic-dataset-z21ak
+  url: https://universe.roboflow.com/traffic/traffic-dataset-z21ak/dataset/1
+  version: 1
+  workspace: traffic
+test: ../test/images
+train: ../train/images
+val: ../valid/images

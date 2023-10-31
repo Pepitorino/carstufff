@@ -2,7 +2,7 @@
 Traffic Dataset - v1 Train traffic
 ==============================
 
-This dataset was exported via roboflow.com on October 11, 2023 at 6:06 AM GMT
+This dataset was exported via roboflow.com on January 26, 2023 at 2:40 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -18,7 +18,7 @@ visit https://github.com/roboflow/notebooks
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
 The dataset includes 150 images.
-Vehicle are annotated in Tensorflow Object Detection format.
+Vehicle are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:
 * Auto-orientation of pixel data (with EXIF-orientation stripping)
